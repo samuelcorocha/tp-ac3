@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sat Dec 16 21:28:38 2023
+Quartus Prime Version : 22.1std.2 Build 922 07/20/2023 SC Lite Edition
+Revision Name : MipsImplementation
+Top-level Entity Name : mips
+Family : MAX V
+Device : 5M40ZM64C4
+Timing Models : Final
+Total logic elements : 0 / 40 ( 0 % )
+Total pins : 2 / 30 ( 7 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

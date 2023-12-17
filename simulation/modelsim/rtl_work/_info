@@ -1,0 +1,913 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/marcus/projetos/Verilog/MIPS 2/simulation/modelsim
+vadder
+Z1 !s110 1702772938
+!i10b 1
+!s100 mWVBXB@iPFc2z3`>QmG[@0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I7RW9DYa;dO?E2B36?Pcz`3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1702771755
+Z5 8/home/marcus/projetos/Verilog/MIPS 2/modules/alu.v
+Z6 F/home/marcus/projetos/Verilog/MIPS 2/modules/alu.v
+!i122 2
+L0 84 11
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1702772938.000000
+Z9 !s107 /home/marcus/projetos/Verilog/MIPS 2/modules/alu.v|
+Z10 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/alu.v|
+!i113 1
+Z11 o-vlog01compat -work work
+Z12 !s92 -vlog01compat -work work {+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules}
+Z13 tCvgOpt 0
+vAdder
+R1
+!i10b 1
+!s100 nT0;[@GL=]1;X9gldPCno1
+R2
+IcL3UemA7HHAgX@51FVcc^0
+R3
+R0
+Z14 w1702771643
+Z15 8/home/marcus/projetos/Verilog/MIPS 2/modules/adder.v
+Z16 F/home/marcus/projetos/Verilog/MIPS 2/modules/adder.v
+!i122 0
+L0 2 38
+R7
+r1
+!s85 0
+31
+R8
+Z17 !s107 /home/marcus/projetos/Verilog/MIPS 2/modules/adder.v|
+Z18 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/adder.v|
+!i113 1
+R11
+R12
+R13
+n@adder
+vadder1bit
+R1
+!i10b 1
+!s100 z3^a<`3lIXU^1Lec]iom61
+R2
+I0On=Mkk111@E6VeWo:Jfd2
+R3
+R0
+R14
+R15
+R16
+!i122 0
+L0 44 11
+R7
+r1
+!s85 0
+31
+R8
+R17
+R18
+!i113 1
+R11
+R12
+R13
+vaddsub
+R1
+!i10b 1
+!s100 V`iAK8EXfDQ^A0Rd2Kc1O3
+R2
+IoNV^L0FNP0fnB?VdK0R7O1
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 74 8
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+valu
+R1
+!i10b 1
+!s100 CUIOa;BI[<GXV3lGUB5B@1
+R2
+IQ:0O;MCfH0UM0;U0109>Z1
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 2 60
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+valu1bit
+R1
+!i10b 1
+!s100 LPne@<7hPC3K>[Z];A2nB2
+R2
+IW;Q>34V6b;6gQS5HDOHVo0
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 63 9
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+vALUControl_Block
+Z19 !s110 1702772939
+!i10b 1
+!s100 =?VS0IhH?]53WZWaO4RBB3
+R2
+ITRFR9lRIMdQB<gT2TLa9L3
+R3
+R0
+w1702771964
+8/home/marcus/projetos/Verilog/MIPS 2/modules/alu_control.v
+F/home/marcus/projetos/Verilog/MIPS 2/modules/alu_control.v
+!i122 9
+L0 2 18
+R7
+r1
+!s85 0
+31
+Z20 !s108 1702772939.000000
+!s107 /home/marcus/projetos/Verilog/MIPS 2/modules/alu_control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/alu_control.v|
+!i113 1
+R11
+R12
+R13
+n@a@l@u@control_@block
+vandmore
+R1
+!i10b 1
+!s100 7?1__gI<jeQUig5mI_B;I0
+R2
+IR=Abz]ae]bK7F1W6WL9h?0
+R3
+R0
+Z21 w1702772651
+Z22 8/home/marcus/projetos/Verilog/MIPS 2/modules/registers.v
+Z23 F/home/marcus/projetos/Verilog/MIPS 2/modules/registers.v
+!i122 1
+L0 175 6
+R7
+r1
+!s85 0
+31
+R8
+Z24 !s107 /home/marcus/projetos/Verilog/MIPS 2/modules/registers.v|
+Z25 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/registers.v|
+!i113 1
+R11
+R12
+R13
+vCompareAddress
+R19
+!i10b 1
+!s100 amUH@6z;HVe5V22<E63YO2
+R2
+IB5IKhoi^cGYJ@S^>Y8`0g0
+R3
+R0
+Z26 w1702772184
+Z27 8/home/marcus/projetos/Verilog/MIPS 2/modules/wb_forwarding.v
+Z28 F/home/marcus/projetos/Verilog/MIPS 2/modules/wb_forwarding.v
+!i122 15
+L0 23 13
+R7
+r1
+!s85 0
+31
+R20
+Z29 !s107 /home/marcus/projetos/Verilog/MIPS 2/modules/wb_forwarding.v|
+Z30 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/wb_forwarding.v|
+!i113 1
+R11
+R12
+R13
+n@compare@address
+vControl
+R19
+!i10b 1
+!s100 `oWTi`9hLN>G;ikDU<>2;2
+R2
+I1m<92C3@UEFh^<8bK>2jo0
+R3
+R0
+w1702771940
+8/home/marcus/projetos/Verilog/MIPS 2/modules/control_unit.v
+F/home/marcus/projetos/Verilog/MIPS 2/modules/control_unit.v
+!i122 8
+L0 2 109
+R7
+r1
+!s85 0
+31
+R20
+!s107 /home/marcus/projetos/Verilog/MIPS 2/modules/control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/control_unit.v|
+!i113 1
+R11
+R12
+R13
+n@control
+vD_FF
+R1
+!i10b 1
+!s100 O5SWFfeU:IUYd;kh6BWQK1
+R2
+Igf^m3Ij1<<NRom?L_DTgQ2
+R3
+R0
+R21
+R22
+R23
+!i122 1
+L0 70 11
+R7
+r1
+!s85 0
+31
+R8
+R24
+R25
+!i113 1
+R11
+R12
+R13
+n@d_@f@f
+vdataMem
+R19
+!i10b 1
+!s100 ^XXJVjZVW>K?b[;Ommh=U0
+R2
+IJ8j7Dn2TRNcD4:R[;<dIl2
+R3
+R0
+w1702771789
+8/home/marcus/projetos/Verilog/MIPS 2/modules/data_memory.v
+F/home/marcus/projetos/Verilog/MIPS 2/modules/data_memory.v
+!i122 3
+L0 2 61
+R7
+r1
+!s85 0
+31
+R8
+!s107 /home/marcus/projetos/Verilog/MIPS 2/modules/data_memory.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/data_memory.v|
+!i113 1
+R11
+R12
+R13
+ndata@mem
+vdec5to32
+R1
+!i10b 1
+!s100 <22>FQ`=PfnEG^fg9<XcG2
+R2
+I_Q@_URQmObZBoP]n2?Tnd3
+R3
+R0
+R21
+R22
+R23
+!i122 1
+L0 181 42
+R7
+r1
+!s85 0
+31
+R8
+R24
+R25
+!i113 1
+R11
+R12
+R13
+vdecoder
+R1
+!i10b 1
+!s100 F6z0`jffkZljL6;@nKNnV3
+R2
+INUNKh_n_cGzml3i>2ko9d0
+R3
+R0
+R21
+R22
+R23
+!i122 1
+L0 136 39
+R7
+r1
+!s85 0
+31
+R8
+R24
+R25
+!i113 1
+R11
+R12
+R13
+vDiscard_Instr
+R19
+!i10b 1
+!s100 PVbPi>U67^gVhi00dYi1Y1
+R2
+Ia8HDJVaZee<aTOQk]n^W92
+R3
+R0
+Z31 w1702772149
+Z32 8/home/marcus/projetos/Verilog/MIPS 2/modules/flush_unit.v
+Z33 F/home/marcus/projetos/Verilog/MIPS 2/modules/flush_unit.v
+!i122 14
+L0 25 6
+R7
+r1
+!s85 0
+31
+R20
+Z34 !s107 /home/marcus/projetos/Verilog/MIPS 2/modules/flush_unit.v|
+Z35 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/flush_unit.v|
+!i113 1
+R11
+R12
+R13
+n@discard_@instr
+vflush_block
+R19
+!i10b 1
+!s100 cT@];]VPT61jCNJ<mX=7k1
+R2
+Id_KLAIC;gXT[:>X[3[zEg3
+R3
+R0
+R31
+R32
+R33
+!i122 14
+L0 2 22
+R7
+r1
+!s85 0
+31
+R20
+R34
+R35
+!i113 1
+R11
+R12
+R13
+vForwardingUnit
+R19
+!i10b 1
+!s100 z]??UBRZ`_<JbV3bHUYo>0
+R2
+IUW]3VLjh?6g@27FTQ?Qh;1
+R3
+R0
+w1702772039
+8/home/marcus/projetos/Verilog/MIPS 2/modules/fowarding.v
+F/home/marcus/projetos/Verilog/MIPS 2/modules/fowarding.v
+!i122 11
+L0 2 33
+R7
+r1
+!s85 0
+31
+R20
+!s107 /home/marcus/projetos/Verilog/MIPS 2/modules/fowarding.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/fowarding.v|
+!i113 1
+R11
+R12
+R13
+n@forwarding@unit
+vinstrmemstimulous
+R19
+!i10b 1
+!s100 ]MgHoFz=__G==RUOba<C42
+R2
+IX2fl9NGWG[3Vc2UzOP82U3
+R3
+R0
+Z36 w1702772902
+Z37 8/home/marcus/projetos/Verilog/MIPS 2/modules/instruction_memory.v
+Z38 F/home/marcus/projetos/Verilog/MIPS 2/modules/instruction_memory.v
+!i122 17
+L0 55 23
+R7
+r1
+!s85 0
+31
+R20
+Z39 !s107 /home/marcus/projetos/Verilog/MIPS 2/modules/instruction_memory.v|
+Z40 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/instruction_memory.v|
+!i113 1
+R11
+R12
+R13
+vInstructionMemory
+R19
+!i10b 1
+!s100 3nUlWAn=TUmMG_EXORR1c0
+R2
+IY8Zda^92V1nGEz:AO7iaZ2
+R3
+R0
+R36
+R37
+R38
+!i122 17
+L0 2 51
+R7
+r1
+!s85 0
+31
+R20
+R39
+R40
+!i113 1
+R11
+R12
+R13
+n@instruction@memory
+vJRControl_Block
+R19
+!i10b 1
+!s100 D0ebHn0:@l6I@h[5m4a2`2
+R2
+Ia7EYPRkGGkVMg40[FKFSK0
+R3
+R0
+w1702771986
+8/home/marcus/projetos/Verilog/MIPS 2/modules/jr.v
+F/home/marcus/projetos/Verilog/MIPS 2/modules/jr.v
+!i122 10
+L0 2 13
+R7
+r1
+!s85 0
+31
+R20
+!s107 /home/marcus/projetos/Verilog/MIPS 2/modules/jr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/jr.v|
+!i113 1
+R11
+R12
+R13
+n@j@r@control_@block
+vmips
+R19
+!i10b 1
+!s100 19M`bb5^M[:JMMWQ4_IA40
+R2
+ID_94QSlJ7j]hEG7;:VY[G1
+R3
+R0
+w1702772857
+8/home/marcus/projetos/Verilog/MIPS 2/modules/mips.v
+F/home/marcus/projetos/Verilog/MIPS 2/modules/mips.v
+!i122 16
+L0 3 209
+R7
+r1
+!s85 0
+31
+R20
+!s107 /home/marcus/projetos/Verilog/MIPS 2/modules/mips.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/mips.v|
+!i113 1
+R11
+R12
+R13
+vMIPS_TB
+R19
+!i10b 1
+!s100 lE@0cFfWdOm@ibHoO0l_F2
+R2
+I@Fdzh>6JGWQob]>2`1OBe2
+R3
+R0
+w1702772759
+8/home/marcus/projetos/Verilog/MIPS 2/tests/MIPS_TB.v
+F/home/marcus/projetos/Verilog/MIPS 2/tests/MIPS_TB.v
+!i122 18
+L0 2 17
+R7
+r1
+!s85 0
+31
+R20
+!s107 /home/marcus/projetos/Verilog/MIPS 2/tests/MIPS_TB.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/tests|/home/marcus/projetos/Verilog/MIPS 2/tests/MIPS_TB.v|
+!i113 1
+R11
+!s92 -vlog01compat -work work {+incdir+/home/marcus/projetos/Verilog/MIPS 2/tests}
+R13
+n@m@i@p@s_@t@b
+vmux21
+R1
+!i10b 1
+!s100 KBoMmifUf;[LI8U0F1hRT2
+R2
+Ic1ZJ1^jMhgP4BCSCz2G]E0
+R3
+R0
+R4
+R5
+R6
+!i122 2
+L0 97 10
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+R13
+vmux2_1
+R19
+!i10b 1
+!s100 k0e;Z6=>_;fj<W4Y<6MkB3
+R2
+Iz]<ULKOO7PBDV@QRnKe9e0
+R3
+R0
+Z41 w1702771908
+Z42 8/home/marcus/projetos/Verilog/MIPS 2/modules/mux_selector_write.v
+Z43 F/home/marcus/projetos/Verilog/MIPS 2/modules/mux_selector_write.v
+!i122 7
+L0 12 10
+R7
+r1
+!s85 0
+31
+R20
+Z44 !s107 /home/marcus/projetos/Verilog/MIPS 2/modules/mux_selector_write.v|
+Z45 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/mux_selector_write.v|
+!i113 1
+R11
+R12
+R13
+vmux2x32to32
+R19
+!i10b 1
+!s100 NVajc`EEmOGm]7lgH7eC52
+R2
+I^P0b08ei9>eAFMVk26_cL1
+R3
+R0
+w1702771855
+8/home/marcus/projetos/Verilog/MIPS 2/modules/mux.v
+F/home/marcus/projetos/Verilog/MIPS 2/modules/mux.v
+!i122 5
+L0 2 41
+R7
+r1
+!s85 0
+31
+R20
+!s107 /home/marcus/projetos/Verilog/MIPS 2/modules/mux.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/mux.v|
+!i113 1
+R11
+R12
+R13
+vmux2x5to5
+R19
+!i10b 1
+!s100 me`6kzQfzP;7^i;l@7V:?0
+R2
+IH7zmhE<6jkKi51ANec6Z]1
+R3
+R0
+R41
+R42
+R43
+!i122 7
+L0 2 10
+R7
+r1
+!s85 0
+31
+R20
+R44
+R45
+!i113 1
+R11
+R12
+R13
+vmux32to1
+R1
+!i10b 1
+!s100 UaMmCEl:_ZJ^F;RgBVfc`3
+R2
+I>3dnBLRbH:KFZnJOZ6<7D0
+R3
+R0
+R21
+R22
+R23
+!i122 1
+L0 225 54
+R7
+r1
+!s85 0
+31
+R8
+R24
+R25
+!i113 1
+R11
+R12
+R13
+vmux32x32to32
+R1
+!i10b 1
+!s100 :LlZ_IgYPFL]@dh]`JEE@2
+R2
+I;iS^Ao8GDgWOdl=mBYF:o1
+R3
+R0
+R21
+R22
+R23
+!i122 1
+L0 279 49
+R7
+r1
+!s85 0
+31
+R8
+R24
+R25
+!i113 1
+R11
+R12
+R13
+vmux3x32to32
+R19
+!i10b 1
+!s100 H<=XLX:[]a:aD<VkLh`^M3
+R2
+INP>V4<ho]=lC[JJ=nVAJc2
+R3
+R0
+w1702772067
+8/home/marcus/projetos/Verilog/MIPS 2/modules/mux_3_32.v
+F/home/marcus/projetos/Verilog/MIPS 2/modules/mux_3_32.v
+!i122 12
+L0 2 11
+R7
+r1
+!s85 0
+31
+R20
+!s107 /home/marcus/projetos/Verilog/MIPS 2/modules/mux_3_32.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/mux_3_32.v|
+!i113 1
+R11
+R12
+R13
+vRegBit
+R1
+!i10b 1
+!s100 ageS<G[XJS7gS8Z]eE8n_0
+R2
+I@ldm0Ql<jchWGAHjIc=aH0
+R3
+R0
+R21
+R22
+R23
+!i122 1
+L0 82 12
+R7
+r1
+!s85 0
+31
+R8
+R24
+R25
+!i113 1
+R11
+R12
+R13
+n@reg@bit
+vregfile
+R1
+!i10b 1
+!s100 RieO8f<9R7I5zBU5zgO693
+R2
+Ij3bGV:=EXZm]hmD=hLD9l2
+R3
+R0
+R21
+R22
+R23
+!i122 1
+L0 2 66
+R7
+r1
+!s85 0
+31
+R8
+R24
+R25
+!i113 1
+R11
+R12
+R13
+vregister
+R1
+!i10b 1
+!s100 fDhZc0lBzfCoWa80Q?RUA0
+R2
+IT[MMIRNFd8b2ZkZ6C73KG1
+R3
+R0
+R21
+R22
+R23
+!i122 1
+L0 96 38
+R7
+r1
+!s85 0
+31
+R8
+R24
+R25
+!i113 1
+R11
+R12
+R13
+vshift_left_2
+R19
+!i10b 1
+!s100 z<4<CH1OfG5ei`2[F5Z:I2
+R2
+IY_@K`HJlg]VM[H8T?:Nc31
+R3
+R0
+Z46 w1702771883
+Z47 8/home/marcus/projetos/Verilog/MIPS 2/modules/signal_extend.v
+Z48 F/home/marcus/projetos/Verilog/MIPS 2/modules/signal_extend.v
+!i122 6
+L0 8 6
+R7
+r1
+!s85 0
+31
+R20
+Z49 !s107 /home/marcus/projetos/Verilog/MIPS 2/modules/signal_extend.v|
+Z50 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/signal_extend.v|
+!i113 1
+R11
+R12
+R13
+vsign_extend
+R19
+!i10b 1
+!s100 5@d^AJ??69:I>:^FkLbmV2
+R2
+IN3nc4>gO7B:=EDf2NWAmQ3
+R3
+R0
+R46
+R47
+R48
+!i122 6
+Z51 L0 2 5
+R7
+r1
+!s85 0
+31
+R20
+R49
+R50
+!i113 1
+R11
+R12
+R13
+vStallControl
+R19
+!i10b 1
+!s100 `oC4NM>eR6l2;f`PKzNlW0
+R2
+Il9o]8QLEfI`[HX43ZkG?30
+R3
+R0
+w1702772118
+8/home/marcus/projetos/Verilog/MIPS 2/modules/stall_unit.v
+F/home/marcus/projetos/Verilog/MIPS 2/modules/stall_unit.v
+!i122 13
+L0 2 52
+R7
+r1
+!s85 0
+31
+R20
+!s107 /home/marcus/projetos/Verilog/MIPS 2/modules/stall_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/stall_unit.v|
+!i113 1
+R11
+R12
+R13
+n@stall@control
+vWB_forward
+R19
+!i10b 1
+!s100 _hZ7z7?kU;GN`H@Nfaadn3
+R2
+IAX^>XYIM3Iz9YfjQLPTgl0
+R3
+R0
+R26
+R27
+R28
+!i122 15
+L0 2 20
+R7
+r1
+!s85 0
+31
+R20
+R29
+R30
+!i113 1
+R11
+R12
+R13
+n@w@b_forward
+vzero_extend
+R19
+!i10b 1
+!s100 6PMOOi[gn:9m7c_gBZCOZ2
+R2
+IRNo4b>X<o`<K4?:EeRPUY1
+R3
+R0
+w1702771823
+8/home/marcus/projetos/Verilog/MIPS 2/modules/zero_extend.v
+F/home/marcus/projetos/Verilog/MIPS 2/modules/zero_extend.v
+!i122 4
+R51
+R7
+r1
+!s85 0
+31
+R20
+!s107 /home/marcus/projetos/Verilog/MIPS 2/modules/zero_extend.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/marcus/projetos/Verilog/MIPS 2/modules|/home/marcus/projetos/Verilog/MIPS 2/modules/zero_extend.v|
+!i113 1
+R11
+R12
+R13
